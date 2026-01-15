@@ -1,3 +1,8 @@
+# There is now an official Augment Code Context Engine MCP:
+https://docs.augmentcode.com/context-services/mcp/overview
+
+
+---
 # Auggie Context MCP Server
 
 [![npm version](https://badge.fury.io/js/auggie-context-mcp.svg)](https://www.npmjs.com/package/auggie-context-mcp)
